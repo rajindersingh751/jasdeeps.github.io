@@ -1,4 +1,3 @@
-## My Resume
+## Hosting a resume on GitHub
 
-Put resume here
-
+Describe steps here

@@ -20,6 +20,14 @@ Before we start with the steps, we should know why we are using GitHub and Markd
   Markdown is one of the most popular markup language. Markup languages are like human-readable XML. If you want more people to contribute to your resume, using a markup language is the way to go. Again, a mardown tutorial is provided in the "More resources" tab, if you would like to delve more into the langauge.
   
 Now, let's get started with the steps:
-1. **GitHub account**   
-  First and foremost, you will need a GitHub account. If you do not have one, you can click [here](https://github.com/) to create your account.
-2. 
+1. **Make a GitHub account**   
+  * First and foremost, you will need a GitHub account. If you do not have one, you can click [here](https://github.com/) to create your account.
+2. **Create a repository**    
+  * Next step is create a repository in your account. This repository is like a folder which will have your resume.
+  * While on your homepage in GitHub account, navigate to top right of the screen and click the plus icon. 
+  * Select "New repository" from the dropdown menu. 
+  * It will open a new page where you can choose the name, description and theme for your repository. This page also asks you if you want to the repository to be public or private.
+  * Once you are done filling in the details, click "Create Repository" at the bottom of the page.  
+3. **Add a file**  
+  * Open a repository and click on "Add file" at the top.  
+  ![Add a file](https://ibb.co/whFs8X4)

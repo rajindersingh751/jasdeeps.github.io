@@ -30,4 +30,4 @@ Now, let's get started with the steps:
   * Once you are done filling in the details, click "Create Repository" at the bottom of the page.  
 3. **Add a file**  
   * Open a repository and click on "Add file" at the top.  
-  ![Add a file](https://ibb.co/whFs8X4)
+  ![Add a file](addfile.png)

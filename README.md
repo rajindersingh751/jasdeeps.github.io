@@ -21,13 +21,21 @@ Before we start with the steps, we should know why we are using GitHub and Markd
   
 Now, let's get started with the steps:
 1. **Make a GitHub account**   
-  * First and foremost, you will need a GitHub account. If you do not have one, you can click [here](https://github.com/) to create your account.
+  * First and foremost, you *will* need a GitHub account. If you do not have one, you can click [here](https://github.com/) to create your account.
 2. **Create a repository**    
   * Next step is create a repository in your account. This repository is like a folder which will have your resume.
-  * While on your homepage in GitHub account, navigate to top right of the screen and click the plus icon. 
-  * Select "New repository" from the dropdown menu. 
+  * While on your homepage in GitHub account, navigate to top right of the screen and click the **plus** icon. 
+  * Select **New repository** from the dropdown menu. 
   * It will open a new page where you can choose the name, description and theme for your repository. This page also asks you if you want to the repository to be public or private.
-  * Once you are done filling in the details, click "Create Repository" at the bottom of the page.  
+  * Once you are done filling in the details, click **Create Repository** at the bottom of the page.  
 3. **Add a file**  
-  * Open a repository and click on "Add file" at the top.  
-  ![Add a file](addfile.png)
+  * Open a repository and click on **Add file** at the top.   
+    ![Add a file](addfile.png)
+  * You can add a README.md here, *if* you did not add it during previous step.
+4. **Add a theme**  
+  * You should always try to include headers, images or themes in your documents. As Etter talks about this in his book, these additions will make your writing more approachable and simpler to read than just lines of paragraphs. 
+  * To include a theme for your GitHub page, open your repository and click on Settings at **top-center**.
+  * Scroll down to *GitHub Pages* section and click **Change Theme**.
+  * Select your desired theme from the list and click **Select theme**.   
+   ![Theme](theme.gif)
+5. 
